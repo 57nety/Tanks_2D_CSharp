@@ -1,0 +1,16 @@
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\Tanks_2D_CSharp.exe.config
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\Tanks_2D_CSharp.exe
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\Tanks_2D_CSharp.pdb
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\SFML.Audio.dll
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\SFML.Graphics.dll
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\SFML.System.dll
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\SFML.Window.dll
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\SFML.Audio.xml
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\SFML.Graphics.xml
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\SFML.System.xml
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\bin\Debug\SFML.Window.xml
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\obj\Debug\Tanks_2D_CSharp.csprojAssemblyReference.cache
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\obj\Debug\Tanks_2D_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\obj\Debug\Tanks_2D_CSharp.csproj.CopyComplete
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\obj\Debug\Tanks_2D_CSharp.exe
+C:\Users\57net\Desktop\Курсовой проект\Tanks_2D_CSharp\obj\Debug\Tanks_2D_CSharp.pdb

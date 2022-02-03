@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks_2D_CSharp", "Tanks_2D_CSharp.csproj", "{DD4332F9-DCA3-488D-B7F3-325E5912CC9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4332F9-DCA3-488D-B7F3-325E5912CC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4332F9-DCA3-488D-B7F3-325E5912CC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4332F9-DCA3-488D-B7F3-325E5912CC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4332F9-DCA3-488D-B7F3-325E5912CC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D84697A-0283-422B-809A-A3868317A759}
+	EndGlobalSection
+EndGlobal
